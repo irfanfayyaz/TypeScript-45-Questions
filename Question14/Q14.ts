@@ -9,3 +9,4 @@ for (let i = 0; i < guestList.length; i++) {
     `Dear Mr. ${guestList[i]}, \n\nYou are cordially invited to a dinner party tomorow.\n\nRegards, \nIrfan Fayyaz`
   );
 }
+export{guestList}
